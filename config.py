@@ -1,0 +1,7 @@
+STATE_SIZE = 128
+ACTION_SIZE = 5   # possible math operations
+LR = 0.001
+GAMMA = 0.99
+EPSILON = 1.0
+EPSILON_DECAY = 0.995
+EPSILON_MIN = 0.05
